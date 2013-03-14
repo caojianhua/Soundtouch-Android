@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/record_start"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Start Record" />
+
+    <Button
+        android:id="@+id/record_stop"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="stop Record" />
+
+    <Button
+        android:id="@+id/play_start"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="start Play" />
+
+    <Button
+        android:id="@+id/play_stop"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="stop Play" />
+
+    <TextView
+        android:id="@+id/pitch_show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Pitch Shift: 0" />
+
+    <SeekBar
+        android:id="@+id/pitch_seek"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:max="3000"
+        android:progress="1000"/>
+    
+    <TextView
+        android:id="@+id/tempo_show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Tempo Change: 0%" />
+    
+    <SeekBar
+        android:id="@+id/tempo_seek"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:max="15000"
+        android:progress="5000"/>
+
+</LinearLayout>

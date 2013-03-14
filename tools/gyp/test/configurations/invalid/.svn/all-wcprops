@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid
+END
+type.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/type.gyp
+END
+sources.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/sources.gyp
+END
+standalone_static_library.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/standalone_static_library.gyp
+END
+dependencies.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/dependencies.gyp
+END
+target_name.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/target_name.gyp
+END
+configurations.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/configurations.gyp
+END
+libraries.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/libraries.gyp
+END
+link_settings.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/link_settings.gyp
+END
+all_dependent_settings.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/all_dependent_settings.gyp
+END
+actions.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/actions.gyp
+END
+direct_dependent_settings.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/direct_dependent_settings.gyp
+END
+gyptest-configurations.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/invalid/gyptest-configurations.py
+END

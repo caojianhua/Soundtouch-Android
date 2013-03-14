@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/long-command-line
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/long-command-line/hello.cc
+END
+function.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/long-command-line/function.cc
+END
+long-command-line.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/long-command-line/long-command-line.gyp
+END

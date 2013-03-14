@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/standalone-static-library
+END
+gyptest-standalone-static-library.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/standalone-static-library/gyptest-standalone-static-library.py
+END
+invalid.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/standalone-static-library/invalid.gyp
+END
+prog.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/standalone-static-library/prog.c
+END
+mylib.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/standalone-static-library/mylib.gyp
+END
+mylib.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/standalone-static-library/mylib.c
+END

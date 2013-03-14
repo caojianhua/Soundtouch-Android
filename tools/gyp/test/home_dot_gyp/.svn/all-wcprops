@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/home_dot_gyp
+END
+gyptest-home-includes.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/home_dot_gyp/gyptest-home-includes.py
+END
+gyptest-home-includes-regyp.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/home_dot_gyp/gyptest-home-includes-regyp.py
+END

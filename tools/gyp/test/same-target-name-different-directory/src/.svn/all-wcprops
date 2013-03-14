@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/same-target-name-different-directory/src
+END
+subdirs.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/same-target-name-different-directory/src/subdirs.gyp
+END
+touch.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/same-target-name-different-directory/src/touch.py
+END

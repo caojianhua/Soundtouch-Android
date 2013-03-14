@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules/src/noaction
+END
+file1.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules/src/noaction/file1.in
+END
+no_action_with_rules_fails.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules/src/noaction/no_action_with_rules_fails.gyp
+END

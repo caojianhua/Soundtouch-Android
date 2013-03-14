@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/batch-file-action
+END
+infile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/batch-file-action/infile
+END
+batch-file-action.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/batch-file-action/batch-file-action.gyp
+END
+somecmd.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/batch-file-action/somecmd.bat
+END

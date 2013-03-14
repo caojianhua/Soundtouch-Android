@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/assembly/src
+END
+as.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/assembly/src/as.bat
+END
+lib1.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/assembly/src/lib1.S
+END
+lib1.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/assembly/src/lib1.c
+END
+program.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/assembly/src/program.c
+END
+assembly.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/assembly/src/assembly.gyp
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags
+END
+rtti-on.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/rtti-on.cc
+END
+warning-level2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/warning-level2.cc
+END
+analysis.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/analysis.gyp
+END
+function-level-linking.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/function-level-linking.gyp
+END
+warning-level4.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/warning-level4.cc
+END
+runtime-library.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/runtime-library.gyp
+END
+character-set.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/character-set.gyp
+END
+additional-options.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/additional-options.cc
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/hello.cc
+END
+buffer-security-check.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/buffer-security-check.gyp
+END
+runtime-library-mtd.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/runtime-library-mtd.cc
+END
+character-set-mbcs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/character-set-mbcs.cc
+END
+character-set-unicode.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/character-set-unicode.cc
+END
+additional-options.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/additional-options.gyp
+END
+pdbname.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/pdbname.gyp
+END
+runtime-checks.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/runtime-checks.cc
+END
+runtime-library-md.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/runtime-library-md.cc
+END
+warning-level.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/warning-level.gyp
+END
+debug-format.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/debug-format.gyp
+END
+exception-handling-on.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/exception-handling-on.cc
+END
+warning-level1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/warning-level1.cc
+END
+runtime-checks.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/runtime-checks.gyp
+END
+rtti.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/rtti.gyp
+END
+warning-as-error.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/warning-as-error.cc
+END
+warning-level3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/warning-level3.cc
+END
+additional-include-dirs.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/additional-include-dirs.gyp
+END
+runtime-library-mt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/runtime-library-mt.cc
+END
+uninit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/uninit.cc
+END
+pdbname.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/pdbname.cc
+END
+warning-as-error.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/warning-as-error.gyp
+END
+buffer-security.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/buffer-security.cc
+END
+function-level-linking.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/function-level-linking.cc
+END
+optimizations.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/optimizations.gyp
+END
+runtime-library-mdd.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/runtime-library-mdd.cc
+END
+additional-include-dirs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/additional-include-dirs.cc
+END
+exception-handling.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/compiler-flags/exception-handling.gyp
+END

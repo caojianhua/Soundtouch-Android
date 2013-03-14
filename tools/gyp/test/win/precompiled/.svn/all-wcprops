@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/precompiled
+END
+hello.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/precompiled/hello.gyp
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/precompiled/hello.c
+END
+hello2.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/precompiled/hello2.c
+END
+precomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/precompiled/precomp.c
+END
+gyptest-all.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/precompiled/gyptest-all.py
+END

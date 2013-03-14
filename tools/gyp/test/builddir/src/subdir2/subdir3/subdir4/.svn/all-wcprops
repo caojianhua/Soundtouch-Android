@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/builddir/src/subdir2/subdir3/subdir4
+END
+prog4.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/builddir/src/subdir2/subdir3/subdir4/prog4.gyp
+END
+prog4.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/builddir/src/subdir2/subdir3/subdir4/prog4.c
+END

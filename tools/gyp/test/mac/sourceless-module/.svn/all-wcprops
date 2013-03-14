@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/sourceless-module
+END
+empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/sourceless-module/empty.c
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/sourceless-module/test.gyp
+END

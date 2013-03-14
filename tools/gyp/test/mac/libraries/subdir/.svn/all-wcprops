@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/libraries/subdir
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/libraries/subdir/hello.cc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/libraries/subdir/README.txt
+END
+mylib.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/libraries/subdir/mylib.c
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/libraries/subdir/test.gyp
+END

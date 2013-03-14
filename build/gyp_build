@@ -1,0 +1,92 @@
+#!/usr/bin/env python
+
+# Copyright (c) 2012 cybertk.com. All rights reserved.
+
+# This script is wrapper for building.
+
+import os
+import sys
+
+script_dir = os.path.dirname(os.path.realpath(__file__))
+root = os.path.abspath(os.path.join(script_dir, os.pardir))
+
+sys.path.insert(0, os.path.join(root, 'tools', 'gyp', 'pylib'))
+import gyp
+
+def apply_gyp_environment(file_path=None):
+    """
+    Reads in a *.gyp_env file and applies the valid keys to os.environ.
+    """
+    if not file_path or not os.path.exists(file_path):
+        return
+    file_contents = open(file_path).read()
+    try:
+        file_data = eval(file_contents, {'__builtins__': None}, None)
+    except SyntaxError, e:
+        e.filename = os.path.abspath(file_path)
+        raise
+    supported_vars = ( 'GYP_FILE',
+                       'GYP_SYNTAX_CHECK',
+                       'CC',
+                       'CXX',
+                       'GYP_DEFINES',
+                       'GYP_GENERATOR_FLAGS',
+                       'GYP_GENERATOR_OUTPUT',
+                       'GYP_GENERATORS',
+    )
+    for var in supported_vars:
+         val = file_data.get(var)
+         if val:
+            if var in os.environ:
+                 print 'INFO: Environment value for "%s" overrides value in %s.' % (var, os.path.abspath(file_path))
+            else:
+                os.environ[var] = val
+
+def additional_include_files(args=[]):
+    """
+    Returns a list of additional (.gypi) files to include, without
+    duplicating ones that are already specified on the command line.
+    """
+    specified_includes = set()
+    for arg in args:
+        if arg.startswith('-I') and len(arg) > 2:
+            specified_includes.add(os.path.realpath(arg[2:]))
+
+    result = []
+    def AddInclude(path):
+        if os.path.realpath(path) not in specified_includes:
+            result.append(path)
+
+    # Always include common.gypi.
+    AddInclude(os.path.join(script_dir, 'common.gypi'))
+
+    return result
+
+if __name__ == '__main__':
+    args = sys.argv[1:]
+
+    if 'SKIP_GYP_ENV' not in os.environ:
+        # Update the environment based on chromium.gyp_env
+        gyp_env_path = os.path.join(script_dir, 'default.gyp_env')
+        apply_gyp_environment(gyp_env_path)
+
+    # This could give false positives since it doesn't actually do real
+    # option parsing. Oh well.
+    gyp_file_specified = False
+    for arg in args:
+         if arg.endswith('.gyp'):
+             gyp_file_specified = True
+             break
+
+    # If we didn't get a file, check an env var, and then fall back to
+    # assuming 'all.gyp' from the same directory as the script.
+    if not gyp_file_specified:
+        args.append(os.path.join(script_dir, 'all.gyp'))
+
+    args.extend(['-I' + i for i in additional_include_files(args)])
+
+    print 'Updating projects from gyp files...'
+    sys.stdout.flush()
+
+    # Off we go...
+    sys.exit(gyp.main(args))

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/toplevel-dir/src/sub1
+END
+main.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/toplevel-dir/src/sub1/main.gyp
+END
+prog1.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/toplevel-dir/src/sub1/prog1.c
+END

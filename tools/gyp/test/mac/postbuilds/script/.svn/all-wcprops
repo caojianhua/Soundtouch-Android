@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuilds/script
+END
+shared_library_postbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuilds/script/shared_library_postbuild.sh
+END
+static_library_postbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuilds/script/static_library_postbuild.sh
+END

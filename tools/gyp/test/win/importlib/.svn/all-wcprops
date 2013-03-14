@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/importlib
+END
+importlib.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/importlib/importlib.gyp
+END
+has-exports.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/importlib/has-exports.cc
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/importlib/hello.cc
+END

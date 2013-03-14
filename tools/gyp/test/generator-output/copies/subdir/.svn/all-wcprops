@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/generator-output/copies/subdir
+END
+file3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/generator-output/copies/subdir/file3
+END
+file4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/generator-output/copies/subdir/file4
+END
+subdir.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/generator-output/copies/subdir/subdir.gyp
+END

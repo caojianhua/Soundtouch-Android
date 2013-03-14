@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-multiple/src
+END
+copy.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-multiple/src/copy.py
+END
+foo.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-multiple/src/foo.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-multiple/src/main.c
+END
+filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-multiple/src/filter.py
+END
+input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-multiple/src/input.txt
+END
+actions.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-multiple/src/actions.gyp
+END

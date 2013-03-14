@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-copy-bundle
+END
+empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-copy-bundle/empty.c
+END
+Framework-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-copy-bundle/Framework-Info.plist
+END
+copied.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-copy-bundle/copied.txt
+END
+postbuild-copy-framework.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-copy-bundle/postbuild-copy-framework.sh
+END
+TestApp-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-copy-bundle/TestApp-Info.plist
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-copy-bundle/main.c
+END
+resource_file.sb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-copy-bundle/resource_file.sb
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-copy-bundle/test.gyp
+END

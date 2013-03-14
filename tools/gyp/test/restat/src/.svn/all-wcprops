@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/restat/src
+END
+restat.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/restat/src/restat.gyp
+END
+create_intermediate.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/restat/src/create_intermediate.py
+END
+touch.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/restat/src/touch.py
+END

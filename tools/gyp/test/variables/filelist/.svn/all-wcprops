@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/filelist
+END
+gyptest-filelist.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/filelist/gyptest-filelist.py
+END
+filelist.gypd.golden
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/filelist/filelist.gypd.golden
+END
+filelist.gyp.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/filelist/filelist.gyp.stdout
+END
+update_golden
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/filelist/update_golden
+END

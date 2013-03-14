@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions/src/subdir1
+END
+executable.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions/src/subdir1/executable.gyp
+END
+counter.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions/src/subdir1/counter.py
+END
+program.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions/src/subdir1/program.c
+END
+make-prog1.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions/src/subdir1/make-prog1.py
+END
+make-prog2.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions/src/subdir1/make-prog2.py
+END

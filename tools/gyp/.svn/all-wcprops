@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp
+END
+gyp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/gyp
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/PRESUBMIT.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/LICENSE
+END
+gyp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/gyp.bat
+END
+pylintrc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/pylintrc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/.gitignore
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/AUTHORS
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/MANIFEST
+END
+gyptest.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/gyptest.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/setup.py
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/DEPS
+END
+codereview.settings
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/codereview.settings
+END
+gyp_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/gyp_dummy.c
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/OWNERS
+END

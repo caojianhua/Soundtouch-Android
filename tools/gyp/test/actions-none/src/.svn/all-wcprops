@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-none/src
+END
+fake_cross.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-none/src/fake_cross.py
+END
+foo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-none/src/foo.cc
+END
+none_with_source_files.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions-none/src/none_with_source_files.gyp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/props
+END
+hello.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/props/hello.gyp
+END
+AppName.props
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/props/AppName.props
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/props/hello.c
+END
+gyptest-props.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/props/gyptest-props.py
+END
+AppName.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/props/AppName.vsprops
+END

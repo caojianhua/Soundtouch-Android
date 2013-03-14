@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-fail
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-fail/file.c
+END
+touch-static.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-fail/touch-static.sh
+END
+postbuild-fail.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-fail/postbuild-fail.sh
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-fail/test.gyp
+END
+touch-dynamic.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-fail/touch-dynamic.sh
+END

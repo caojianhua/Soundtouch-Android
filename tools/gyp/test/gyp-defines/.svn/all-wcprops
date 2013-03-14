@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/gyp-defines
+END
+echo.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/gyp-defines/echo.py
+END
+gyptest-regyp.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/gyp-defines/gyptest-regyp.py
+END
+defines.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/gyp-defines/defines.gyp
+END
+gyptest-multiple-values.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/gyp-defines/gyptest-multiple-values.py
+END

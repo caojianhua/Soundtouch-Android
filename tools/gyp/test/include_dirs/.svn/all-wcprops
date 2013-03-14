@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/include_dirs
+END
+gyptest-default.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/include_dirs/gyptest-default.py
+END
+gyptest-all.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/include_dirs/gyptest-all.py
+END

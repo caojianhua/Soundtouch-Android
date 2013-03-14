@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/uldi2010
+END
+hello.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/uldi2010/hello.gyp
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/uldi2010/hello.c
+END
+hello2.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/uldi2010/hello2.c
+END
+gyptest-all.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/uldi2010/gyptest-all.py
+END

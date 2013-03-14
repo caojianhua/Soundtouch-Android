@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compilable/src
+END
+lib1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compilable/src/lib1.cpp
+END
+program.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compilable/src/program.cpp
+END
+headers.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compilable/src/headers.gyp
+END
+lib1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compilable/src/lib1.hpp
+END

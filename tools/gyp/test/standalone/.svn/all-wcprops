@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/standalone
+END
+standalone.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/standalone/standalone.gyp
+END
+gyptest-standalone.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/standalone/gyptest-standalone.py
+END

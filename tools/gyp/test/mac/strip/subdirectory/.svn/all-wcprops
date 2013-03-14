@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/strip/subdirectory
+END
+nested_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/strip/subdirectory/nested_file.c
+END
+nested_strip.saves
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/strip/subdirectory/nested_strip.saves
+END
+test_reading_save_file_from_postbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/strip/subdirectory/test_reading_save_file_from_postbuild.sh
+END
+subdirectory.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/strip/subdirectory/subdirectory.gyp
+END

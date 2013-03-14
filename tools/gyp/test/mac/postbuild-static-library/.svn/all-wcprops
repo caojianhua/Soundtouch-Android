@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-static-library
+END
+empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-static-library/empty.c
+END
+postbuild-touch-file.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-static-library/postbuild-touch-file.sh
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuild-static-library/test.gyp
+END

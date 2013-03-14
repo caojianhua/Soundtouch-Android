@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules/src/subdir3
+END
+executable2.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules/src/subdir3/executable2.gyp
+END
+program.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules/src/subdir3/program.c
+END
+function3.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules/src/subdir3/function3.in
+END

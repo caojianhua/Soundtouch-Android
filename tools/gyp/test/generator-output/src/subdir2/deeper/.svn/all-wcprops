@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/generator-output/src/subdir2/deeper
+END
+deeper.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/generator-output/src/subdir2/deeper/deeper.gyp
+END
+deeper.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/generator-output/src/subdir2/deeper/deeper.c
+END
+deeper.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/generator-output/src/subdir2/deeper/deeper.h
+END

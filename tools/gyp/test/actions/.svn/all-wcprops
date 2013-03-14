@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions
+END
+gyptest-errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions/gyptest-errors.py
+END
+gyptest-default.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions/gyptest-default.py
+END
+gyptest-all.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/actions/gyptest-all.py
+END

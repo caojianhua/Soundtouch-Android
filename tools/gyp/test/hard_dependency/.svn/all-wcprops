@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hard_dependency
+END
+gyptest-no-exported-hard-dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hard_dependency/gyptest-no-exported-hard-dependency.py
+END
+gyptest-exported-hard-dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hard_dependency/gyptest-exported-hard-dependency.py
+END

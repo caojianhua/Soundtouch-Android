@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules-dirname/src/subdir
+END
+input-rule-dirname.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules-dirname/src/subdir/input-rule-dirname.gyp
+END
+printvars.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules-dirname/src/subdir/printvars.py
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules-dirname/src/subdir/main.cc
+END

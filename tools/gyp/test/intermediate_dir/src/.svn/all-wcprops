@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/intermediate_dir/src
+END
+test2.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/intermediate_dir/src/test2.gyp
+END
+shared_infile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/intermediate_dir/src/shared_infile.txt
+END
+script.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/intermediate_dir/src/script.py
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/intermediate_dir/src/test.gyp
+END

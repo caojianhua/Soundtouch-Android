@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars/file.c
+END
+test_bundle_executable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars/test_bundle_executable.sh
+END
+test_nonbundle_loadable_module.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars/test_nonbundle_loadable_module.sh
+END
+test_nonbundle_shared_library.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars/test_nonbundle_shared_library.sh
+END
+test_nonbundle_static_library.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars/test_nonbundle_static_library.sh
+END
+test_bundle_loadable_module.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars/test_bundle_loadable_module.sh
+END
+test_bundle_shared_library.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars/test_bundle_shared_library.sh
+END
+test_nonbundle_none.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars/test_nonbundle_none.sh
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars/test.gyp
+END
+test_nonbundle_executable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/type_envvars/test_nonbundle_executable.sh
+END

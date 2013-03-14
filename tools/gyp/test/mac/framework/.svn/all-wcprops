@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/framework
+END
+empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/framework/empty.c
+END
+framework.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/framework/framework.gyp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/subdirectory/src
+END
+symroot.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/subdirectory/src/symroot.gypi
+END
+prog1.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/subdirectory/src/prog1.gyp
+END
+prog1.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/subdirectory/src/prog1.c
+END

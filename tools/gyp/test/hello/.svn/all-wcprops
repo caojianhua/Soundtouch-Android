@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hello
+END
+hello.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hello/hello.gyp
+END
+hello2.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hello/hello2.gyp
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hello/hello.c
+END
+hello2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hello/hello2.c
+END
+gyptest-default.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hello/gyptest-default.py
+END
+gyptest-regyp.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hello/gyptest-regyp.py
+END
+gyptest-target.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hello/gyptest-target.py
+END
+gyptest-disable-regyp.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hello/gyptest-disable-regyp.py
+END
+gyptest-all.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/hello/gyptest-all.py
+END

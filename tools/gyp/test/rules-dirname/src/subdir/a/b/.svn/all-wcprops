@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules-dirname/src/subdir/a/b
+END
+c.gencc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules-dirname/src/subdir/a/b/c.gencc
+END
+c.printvars
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/rules-dirname/src/subdir/a/b/c.printvars
+END

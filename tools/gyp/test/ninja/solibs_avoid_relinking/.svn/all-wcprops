@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/solibs_avoid_relinking
+END
+gyptest-solibs-avoid-relinking.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/solibs_avoid_relinking/gyptest-solibs-avoid-relinking.py
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/solibs_avoid_relinking/main.cc
+END
+solib.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/solibs_avoid_relinking/solib.cc
+END
+solibs_avoid_relinking.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/solibs_avoid_relinking/solibs_avoid_relinking.gyp
+END

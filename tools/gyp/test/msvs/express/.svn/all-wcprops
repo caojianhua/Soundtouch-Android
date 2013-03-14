@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/express
+END
+express.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/express/express.gyp
+END
+gyptest-express.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/msvs/express/gyptest-express.py
+END

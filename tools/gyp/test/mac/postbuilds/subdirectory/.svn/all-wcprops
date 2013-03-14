@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuilds/subdirectory
+END
+copied_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuilds/subdirectory/copied_file.txt
+END
+nested_target.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/postbuilds/subdirectory/nested_target.gyp
+END

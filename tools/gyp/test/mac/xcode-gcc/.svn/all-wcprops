@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/xcode-gcc
+END
+valid_mm.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/xcode-gcc/valid_mm.mm
+END
+valid_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/xcode-gcc/valid_c.c
+END
+valid_m.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/xcode-gcc/valid_m.m
+END
+warn_about_invalid_offsetof_macro.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/xcode-gcc/warn_about_invalid_offsetof_macro.cc
+END
+valid_cc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/xcode-gcc/valid_cc.cc
+END
+warn_about_missing_newline.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/xcode-gcc/warn_about_missing_newline.c
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/xcode-gcc/test.gyp
+END

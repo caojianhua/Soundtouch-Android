@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependency-copy
+END
+gyptest-copy.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependency-copy/gyptest-copy.py
+END

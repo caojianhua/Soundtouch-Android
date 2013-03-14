@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies
+END
+none_traversal.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/none_traversal.gyp
+END
+a.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/a.c
+END
+gyptest-none-traversal.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/gyptest-none-traversal.py
+END
+lib_only.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/lib_only.gyp
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/main.c
+END
+double_dependency.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/double_dependency.gyp
+END
+gyptest-lib-only.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/gyptest-lib-only.py
+END
+extra_targets.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/extra_targets.gyp
+END
+gyptest-double-dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/gyptest-double-dependency.py
+END
+double_dependent.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/double_dependent.gyp
+END
+gyptest-extra-targets.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/dependencies/gyptest-extra-targets.py
+END

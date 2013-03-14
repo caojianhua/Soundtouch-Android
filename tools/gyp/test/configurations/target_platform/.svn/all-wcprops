@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/target_platform
+END
+configurations.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/target_platform/configurations.gyp
+END
+front.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/target_platform/front.c
+END
+left.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/target_platform/left.c
+END
+gyptest-target_platform.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/target_platform/gyptest-target_platform.py
+END
+right.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/target_platform/right.c
+END

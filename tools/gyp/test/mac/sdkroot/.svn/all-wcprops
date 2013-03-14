@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/sdkroot
+END
+test_shorthand.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/sdkroot/test_shorthand.sh
+END
+file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/sdkroot/file.cc
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/sdkroot/test.gyp
+END

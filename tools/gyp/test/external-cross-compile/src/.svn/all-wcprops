@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src
+END
+bogus2.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/bogus2.c
+END
+test2.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/test2.c
+END
+bogus1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/bogus1.cc
+END
+test1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/test1.cc
+END
+test4.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/test4.c
+END
+fake_cross.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/fake_cross.py
+END
+test3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/test3.cc
+END
+cross.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/cross.gyp
+END
+tochar.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/tochar.py
+END
+cross_compile.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/cross_compile.gypi
+END
+program.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/external-cross-compile/src/program.cc
+END

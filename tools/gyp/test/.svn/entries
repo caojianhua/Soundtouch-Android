@@ -1,0 +1,229 @@
+10
+
+dir
+2075
+https://repos.chatavatar.me/svn/AvatarChat/trunk/tools/gyp/test
+https://repos.chatavatar.me/svn/AvatarChat
+
+
+
+2012-11-15T16:23:53.962220Z
+1005
+kyan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+608bf708-d0d2-48b2-b821-52ef0ba3413e
+
+standalone-static-library
+dir
+
+dependencies
+dir
+
+dependency-copy
+dir
+
+actions-subdir
+dir
+
+variants
+dir
+
+compiler-override
+dir
+
+configurations
+dir
+
+builddir
+dir
+
+custom-generator
+dir
+
+external-cross-compile
+dir
+
+mac
+dir
+
+many-actions
+dir
+
+restat
+dir
+
+scons_tools
+dir
+
+toplevel-dir
+dir
+
+actions-bare
+dir
+
+variables
+dir
+
+no-output
+dir
+
+make
+dir
+
+cxxflags
+dir
+
+same-rule-output-file-name
+dir
+
+same-target-name
+dir
+
+msvs
+dir
+
+actions-multiple
+dir
+
+rules
+dir
+
+win
+dir
+
+actions-none
+dir
+
+same-target-name-different-directory
+dir
+
+ninja
+dir
+
+same-gyp-name
+dir
+
+defines-escaping
+dir
+
+include_dirs
+dir
+
+build-option
+dir
+
+small
+dir
+
+gyp-defines
+dir
+
+hard_dependency
+dir
+
+subdirectory
+dir
+
+assembly
+dir
+
+additional-targets
+dir
+
+copies
+dir
+
+generator-output
+dir
+
+link-objects
+dir
+
+sibling
+dir
+
+escaping
+dir
+
+rules-variables
+dir
+
+library
+dir
+
+lib
+dir
+
+rules-dirname
+dir
+
+compilable
+dir
+
+rename
+dir
+
+exclusion
+dir
+
+relative
+dir
+
+home_dot_gyp
+dir
+
+same-source-file-name
+dir
+
+rules-rebuild
+dir
+
+product
+dir
+
+module
+dir
+
+standalone
+dir
+
+sanitize-rule-names
+dir
+
+cflags
+dir
+
+actions
+dir
+
+multiple-targets
+dir
+
+hello
+dir
+
+intermediate_dir
+dir
+
+toolsets
+dir
+
+errors
+dir
+
+defines
+dir
+

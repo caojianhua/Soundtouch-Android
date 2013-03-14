@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools
+END
+graphviz.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools/graphviz.py
+END
+pretty_vcproj.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools/pretty_vcproj.py
+END
+pretty_sln.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools/pretty_sln.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools/README
+END
+pretty_gyp.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools/pretty_gyp.py
+END

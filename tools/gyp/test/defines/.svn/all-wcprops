@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/defines
+END
+defines-env.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/defines/defines-env.gyp
+END
+gyptest-defines.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/defines/gyptest-defines.py
+END
+gyptest-defines-env.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/defines/gyptest-defines-env.py
+END
+defines.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/defines/defines.gyp
+END
+gyptest-define-override.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/defines/gyptest-define-override.py
+END
+gyptest-defines-env-regyp.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/defines/gyptest-defines-env-regyp.py
+END
+defines.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/defines/defines.c
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override/test.c
+END
+my_cc.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override/my_cc.py
+END
+compiler-host.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override/compiler-host.gyp
+END
+gyptest-compiler-env.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override/gyptest-compiler-env.py
+END
+cxxtest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override/cxxtest.cc
+END
+compiler.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override/compiler.gyp
+END
+compiler-global-settings.gyp.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override/compiler-global-settings.gyp.in
+END
+gyptest-compiler-global-settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override/gyptest-compiler-global-settings.py
+END
+my_ld.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override/my_ld.py
+END
+my_cxx.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/compiler-override/my_cxx.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/relative/foo/a
+END
+a.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/relative/foo/a/a.cc
+END
+a.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/relative/foo/a/a.gyp
+END

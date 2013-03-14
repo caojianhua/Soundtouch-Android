@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/same-rule-output-file-name/src/subdir1
+END
+subdir1.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/same-rule-output-file-name/src/subdir1/subdir1.gyp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/sanitize-rule-names
+END
+gyptest-sanitize-rule-names.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/sanitize-rule-names/gyptest-sanitize-rule-names.py
+END
+blah.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/sanitize-rule-names/blah.S
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/sanitize-rule-names/hello.cc
+END
+sanitize-rule-names.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/sanitize-rule-names/sanitize-rule-names.gyp
+END
+script.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/sanitize-rule-names/script.py
+END

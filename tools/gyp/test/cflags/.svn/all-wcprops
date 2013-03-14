@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/cflags
+END
+cflags.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/cflags/cflags.c
+END
+gyptest-cflags.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/cflags/gyptest-cflags.py
+END
+cflags.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/cflags/cflags.gyp
+END

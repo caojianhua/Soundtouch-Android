@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/common.py
+END
+win_tool.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/win_tool.py
+END
+xcodeproj_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/xcodeproj_file.py
+END
+mac_tool.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/mac_tool.py
+END
+MSVSVersion.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/MSVSVersion.py
+END
+input.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/input.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/__init__.py
+END
+sun_tool.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/sun_tool.py
+END
+MSVSNew.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/MSVSNew.py
+END
+ninja_syntax.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/ninja_syntax.py
+END
+msvs_emulation.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/msvs_emulation.py
+END
+xml_fix.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/xml_fix.py
+END
+MSVSSettings_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/MSVSSettings_test.py
+END
+MSVSSettings.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/MSVSSettings.py
+END
+MSVSProject.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/MSVSProject.py
+END
+xcode_emulation.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/xcode_emulation.py
+END
+easy_xml_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/easy_xml_test.py
+END
+easy_xml.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/easy_xml.py
+END
+SCons.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/SCons.py
+END
+MSVSToolFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/MSVSToolFile.py
+END
+common_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/common_test.py
+END
+MSVSUserFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/build/lib/gyp/MSVSUserFile.py
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands
+END
+commands.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/commands.gyp
+END
+commands.gyp.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/commands.gyp.stdout
+END
+commands-repeated.gypd.golden
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/commands-repeated.gypd.golden
+END
+gyptest-commands.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/gyptest-commands.py
+END
+commands-repeated.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/commands-repeated.gyp
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/test.py
+END
+commands-repeated.gyp.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/commands-repeated.gyp.stdout
+END
+commands.gyp.ignore-env.stdout
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/commands.gyp.ignore-env.stdout
+END
+commands.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/commands.gypi
+END
+commands.gypd.golden
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/commands.gypd.golden
+END
+update_golden
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/update_golden
+END
+gyptest-commands-ignore-env.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/gyptest-commands-ignore-env.py
+END
+gyptest-commands-repeated.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/variables/commands/gyptest-commands-repeated.py
+END

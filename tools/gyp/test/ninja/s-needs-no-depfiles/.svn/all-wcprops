@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/s-needs-no-depfiles
+END
+empty.s
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/s-needs-no-depfiles/empty.s
+END
+s-needs-no-depfiles.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/s-needs-no-depfiles/s-needs-no-depfiles.gyp
+END
+gyptest-s-needs-no-depfiles.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/s-needs-no-depfiles/gyptest-s-needs-no-depfiles.py
+END

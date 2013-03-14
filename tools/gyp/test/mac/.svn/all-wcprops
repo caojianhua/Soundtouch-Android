@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac
+END
+gyptest-xcode-gcc.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-xcode-gcc.py
+END
+gyptest-framework-dirs.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-framework-dirs.py
+END
+gyptest-action-envvars.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-action-envvars.py
+END
+gyptest-archs.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-archs.py
+END
+gyptest-debuginfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-debuginfo.py
+END
+gyptest-type-envvars.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-type-envvars.py
+END
+gyptest-objc-gc.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-objc-gc.py
+END
+gyptest-framework-headers.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-framework-headers.py
+END
+gyptest-prefixheader.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-prefixheader.py
+END
+gyptest-installname.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-installname.py
+END
+gyptest-postbuild-defaults.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-postbuild-defaults.py
+END
+gyptest-missing-cfbundlesignature.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-missing-cfbundlesignature.py
+END
+gyptest-rpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-rpath.py
+END
+gyptest-postbuild-fail.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-postbuild-fail.py
+END
+gyptest-depend-on-bundle.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-depend-on-bundle.py
+END
+gyptest-sourceless-module.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-sourceless-module.gyp
+END
+gyptest-copies.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-copies.py
+END
+gyptest-rebuild.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-rebuild.py
+END
+gyptest-non-strs-flattened-to-env.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-non-strs-flattened-to-env.py
+END
+gyptest-framework.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-framework.py
+END
+gyptest-global-settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-global-settings.py
+END
+gyptest-cflags.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-cflags.py
+END
+gyptest-strip.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-strip.py
+END
+gyptest-xcode-env-order.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-xcode-env-order.py
+END
+gyptest-postbuild-static-library.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-postbuild-static-library.gyp
+END
+gyptest-postbuild.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-postbuild.py
+END
+gyptest-copy-dylib.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-copy-dylib.py
+END
+gyptest-ldflags-passed-to-libtool.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-ldflags-passed-to-libtool.py
+END
+gyptest-ldflags.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-ldflags.py
+END
+gyptest-libraries.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-libraries.py
+END
+gyptest-app.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-app.py
+END
+gyptest-infoplist-process.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-infoplist-process.py
+END
+gyptest-postbuild-copy-bundle.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-postbuild-copy-bundle.py
+END
+gyptest-sdkroot.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-sdkroot.py
+END
+gyptest-postbuild-multiple-configurations.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-postbuild-multiple-configurations.py
+END
+gyptest-loadable-module.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/gyptest-loadable-module.py
+END

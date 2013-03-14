@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools/emacs
+END
+run-unit-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools/emacs/run-unit-tests.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools/emacs/README
+END
+gyp-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools/emacs/gyp-tests.el
+END
+gyp.el
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/tools/emacs/gyp.el
+END

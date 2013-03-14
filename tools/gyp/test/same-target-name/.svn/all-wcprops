@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/same-target-name
+END
+gyptest-same-target-name.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/same-target-name/gyptest-same-target-name.py
+END

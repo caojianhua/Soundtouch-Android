@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/many-actions
+END
+file0
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/many-actions/file0
+END
+file1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/many-actions/file1
+END
+many-actions.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/many-actions/many-actions.gyp
+END
+file2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/many-actions/file2
+END
+many-actions-unsorted.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/many-actions/many-actions-unsorted.gyp
+END
+file3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/many-actions/file3
+END
+file4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/many-actions/file4
+END
+gyptest-many-actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/many-actions/gyptest-many-actions.py
+END
+gyptest-many-actions-unsorted.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/many-actions/gyptest-many-actions-unsorted.py
+END

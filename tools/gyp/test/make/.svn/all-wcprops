@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/make
+END
+gyptest-noload.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/make/gyptest-noload.py
+END
+dependencies.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/make/dependencies.gyp
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/make/main.cc
+END
+gyptest-dependencies.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/make/gyptest-dependencies.py
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/make/main.h
+END

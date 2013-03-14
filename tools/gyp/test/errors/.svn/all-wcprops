@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/errors
+END
+duplicate_rule.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/errors/duplicate_rule.gyp
+END
+missing_dep.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/errors/missing_dep.gyp
+END
+gyptest-errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/errors/gyptest-errors.py
+END
+missing_targets.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/errors/missing_targets.gyp
+END
+duplicate_targets.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/errors/duplicate_targets.gyp
+END
+duplicate_basenames.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/errors/duplicate_basenames.gyp
+END
+duplicate_node.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/errors/duplicate_node.gyp
+END

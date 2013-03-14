@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/scons_tools
+END
+tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/scons_tools/tools.c
+END
+gyptest-tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/scons_tools/gyptest-tools.py
+END
+tools.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/scons_tools/tools.gyp
+END

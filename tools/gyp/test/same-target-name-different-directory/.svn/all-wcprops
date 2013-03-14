@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/same-target-name-different-directory
+END
+gyptest-all.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/same-target-name-different-directory/gyptest-all.py
+END

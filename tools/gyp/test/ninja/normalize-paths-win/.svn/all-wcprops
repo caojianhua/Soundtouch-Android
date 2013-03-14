@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/normalize-paths-win
+END
+gyptest-normalize-paths.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/normalize-paths-win/gyptest-normalize-paths.py
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/normalize-paths-win/hello.cc
+END
+normalize-paths.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/ninja/normalize-paths-win/normalize-paths.gyp
+END

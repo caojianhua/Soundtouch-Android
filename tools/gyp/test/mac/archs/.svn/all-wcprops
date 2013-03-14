@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/archs
+END
+test-no-archs.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/archs/test-no-archs.gyp
+END
+test-archs-x86_64.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/archs/test-archs-x86_64.gyp
+END
+my_file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/archs/my_file.cc
+END
+my_main_file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/mac/archs/my_main_file.cc
+END

@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win
+END
+gyptest-link-outputfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-outputfile.py
+END
+gyptest-link-additional-options.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-additional-options.py
+END
+gyptest-link-entrypointsymbol.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-entrypointsymbol.py
+END
+gyptest-link-opt-icf.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-opt-icf.py
+END
+gyptest-link-additional-deps.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-additional-deps.py
+END
+gyptest-cl-additional-options.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-additional-options.py
+END
+gyptest-link-pdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-pdb.py
+END
+gyptest-rc-build.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-rc-build.py
+END
+gyptest-link-fixed-base.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-fixed-base.py
+END
+gyptest-cl-pdbname.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-pdbname.py
+END
+gyptest-link-delay-load-dlls.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-delay-load-dlls.py
+END
+gyptest-cl-optimizations.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-optimizations.py
+END
+gyptest-macro-projectname.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-macro-projectname.py
+END
+gyptest-cl-warning-level.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-warning-level.py
+END
+gyptest-macros-containing-gyp.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-macros-containing-gyp.py
+END
+gyptest-command-quote.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-command-quote.py
+END
+gyptest-link-library-directories.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-library-directories.py
+END
+gyptest-cl-exception-handling.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-exception-handling.py
+END
+gyptest-cl-runtime-checks.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-runtime-checks.py
+END
+gyptest-cl-runtime-library.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-runtime-library.py
+END
+gyptest-cl-character-set.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-character-set.py
+END
+gyptest-link-nxcompat.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-nxcompat.py
+END
+gyptest-cl-additional-include-dirs.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-additional-include-dirs.py
+END
+gyptest-cl-buffer-security-check.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-buffer-security-check.py
+END
+gyptest-quoting-commands.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-quoting-commands.py
+END
+gyptest-link-library-adjust.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-library-adjust.py
+END
+gyptest-link-uldi.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-uldi.py
+END
+gyptest-cl-warning-as-error.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-warning-as-error.py
+END
+gyptest-link-deffile.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-deffile.py
+END
+gyptest-link-subsystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-subsystem.py
+END
+gyptest-link-profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-profile.py
+END
+gyptest-link-incremental.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-incremental.py
+END
+gyptest-link-aslr.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-aslr.py
+END
+gyptest-link-restat-importlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-restat-importlib.py
+END
+gyptest-macro-vcinstalldir.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-macro-vcinstalldir.py
+END
+gyptest-long-command-line.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-long-command-line.py
+END
+gyptest-link-nodefaultlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-nodefaultlib.py
+END
+gyptest-link-default-libs.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-default-libs.py
+END
+gyptest-link-opt-ref.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-opt-ref.py
+END
+gyptest-cl-debug-format.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-debug-format.py
+END
+gyptest-link-debug-info.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-debug-info.py
+END
+gyptest-midl-rules.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-midl-rules.py
+END
+gyptest-cl-rtti.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-rtti.py
+END
+gyptest-cl-analysis.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-analysis.py
+END
+gyptest-cl-function-level-linking.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-cl-function-level-linking.py
+END
+gyptest-asm-files.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-asm-files.py
+END
+gyptest-macros-in-inputs-and-outputs.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-macros-in-inputs-and-outputs.py
+END
+gyptest-link-generate-manifest.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/gyptest-link-generate-manifest.py
+END

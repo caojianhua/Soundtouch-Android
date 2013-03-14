@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags
+END
+opt-icf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/opt-icf.cc
+END
+additional-deps.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/additional-deps.cc
+END
+deffile-multiple.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/deffile-multiple.gyp
+END
+entrypointsymbol.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/entrypointsymbol.cc
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/hello.cc
+END
+library-adjust.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/library-adjust.gyp
+END
+library-directories-define.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/library-directories-define.cc
+END
+deffile.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/deffile.gyp
+END
+subsystem.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/subsystem.gyp
+END
+library-directories-reference.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/library-directories-reference.cc
+END
+profile.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/profile.gyp
+END
+opt-icf.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/opt-icf.gyp
+END
+additional-deps.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/additional-deps.gyp
+END
+additional-options.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/additional-options.gyp
+END
+entrypointsymbol.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/entrypointsymbol.gyp
+END
+delay-load-dlls.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/delay-load-dlls.gyp
+END
+fixed-base.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/fixed-base.gyp
+END
+nodefaultlib.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/nodefaultlib.gyp
+END
+program-database.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/program-database.gyp
+END
+opt-ref.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/opt-ref.gyp
+END
+extra2.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/extra2.manifest
+END
+library-adjust.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/library-adjust.cc
+END
+deffile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/deffile.cc
+END
+nxcompat.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/nxcompat.gyp
+END
+extra.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/extra.manifest
+END
+deffile.def
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/deffile.def
+END
+generate-manifest.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/generate-manifest.gyp
+END
+nodefaultlib.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/nodefaultlib.cc
+END
+outputfile.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/outputfile.gyp
+END
+aslr.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/aslr.gyp
+END
+delay-load.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/delay-load.cc
+END
+default-libs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/default-libs.cc
+END
+incremental.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/incremental.gyp
+END
+opt-ref.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/opt-ref.cc
+END
+default-libs.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/default-libs.gyp
+END
+subsystem-windows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/subsystem-windows.cc
+END
+library-directories.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/library-directories.gyp
+END
+debug-info.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/win/linker-flags/debug-info.gyp
+END

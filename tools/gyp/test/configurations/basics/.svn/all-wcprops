@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/basics
+END
+configurations.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/basics/configurations.gyp
+END
+configurations.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/basics/configurations.c
+END
+gyptest-configurations.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/AvatarChat/!svn/ver/1005/trunk/tools/gyp/test/configurations/basics/gyptest-configurations.py
+END
