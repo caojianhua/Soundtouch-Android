@@ -49,7 +49,8 @@ LOCAL_CPPFLAGS :=
 
 ### Rules for final target.
 
-LOCAL_LDFLAGS :=
+LOCAL_LDFLAGS := \
+	-llog
 
 
 LOCAL_STATIC_LIBRARIES := \
@@ -58,7 +59,8 @@ LOCAL_STATIC_LIBRARIES := \
 # Enable grouping to fix circular references
 LOCAL_GROUP_STATIC_LIBRARIES := true
 
-LOCAL_SHARED_LIBRARIES :=
+LOCAL_SHARED_LIBRARIES := \
+	liblog
 
 # Add target alias to "gyp_all_modules" target.
 .PHONY: gyp_all_modules

@@ -65,9 +65,9 @@ public class MainActivity extends Activity {
 
 		soundTouchRec = new SoundTouchRecorder(this);
 
-		String versionCode = NativeSoundTouch.getSoundTouch()
-				.soundTouchgethVersion();
-		Log.d(TAG, "get soundtouch version :" + versionCode);
+		// String versionCode = NativeSoundTouch.getSoundTouch()
+		// .soundTouchgethVersion();
+		// Log.d(TAG, "get soundtouch version :" + versionCode);
 	}
 
 	@Override

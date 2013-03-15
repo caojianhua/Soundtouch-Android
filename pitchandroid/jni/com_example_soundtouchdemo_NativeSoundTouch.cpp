@@ -22,6 +22,9 @@ jlong Java_com_example_soundtouchdemo_NativeSoundTouch_soundTouchCreate(
 
 	soundtouch::SoundTouch* soundTouch = new soundtouch::SoundTouch();
 
+	const char* verStr = soundTouch->getVersionString();
+	LOGD("Create SoundTouch object[version: %s]", verStr);
+
 	soundTouch->setSampleRate(8000);
 	soundTouch->setChannels(1);
 	//soundTouch->setPitchSemiTones(0.00f);
@@ -59,9 +62,6 @@ jstring Java_com_example_soundtouchdemo_NativeSoundTouch_soundTouchgethVersion(
 
 	const char *verStr;
 
-	//LOGV("JNI call soundtouch.getVersionString");
-
-	// Call example SoundTouch routine
 	soundtouch::SoundTouch* soundTouch = getTouch(env, obj);
 	verStr = soundTouch->getVersionString();
 

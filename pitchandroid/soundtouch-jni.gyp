@@ -25,6 +25,13 @@
         'sources':[
             './jni/com_example_soundtouchdemo_NativeSoundTouch.cpp',
         ],
+        
+        
+        'link_settings': {
+            'ldflags': [
+               '-llog',
+            ]
+        },
     }
     
     ],
