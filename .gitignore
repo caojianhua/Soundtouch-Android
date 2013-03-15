@@ -1,0 +1,8 @@
+.project
+*.mk
+*/obj/*
+*/gen/*
+*/bin/*
+*/.externalToolBuilders/*
+*/.settings/*
+.classpath
