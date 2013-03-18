@@ -6,3 +6,4 @@
 */.externalToolBuilders/*
 */.settings/*
 .classpath
+*.mk
