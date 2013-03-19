@@ -129,9 +129,10 @@ void Java_com_example_soundtouchdemo_NativeSoundTouch_shiftingPitch(JNIEnv *env,
  * Signature: ([BI)I
  */
 jint Java_com_example_soundtouchdemo_NativeSoundTouch_receiveSamples(
-		JNIEnv *env, jobject obj, jbyteArray jarray, jint maxsamples) {
+		JNIEnv *env, jobject obj, jbyteArray jarray, jint jLenght) {
 
 	int receiveSamples = 0;
+	int maxReceiveSamples = jLenght / (16 / 8);
 
 	soundtouch::SoundTouch* soundTouch = getTouch(env, obj);
 
@@ -140,12 +141,26 @@ jint Java_com_example_soundtouchdemo_NativeSoundTouch_receiveSamples(
 	data = env->GetByteArrayElements(jarray, JNI_FALSE);
 
 	receiveSamples = soundTouch->receiveSamples((soundtouch::SAMPLETYPE*) data,
-			maxsamples);
+			maxReceiveSamples);
 
 	//memcpy(data, sampleBuffer, receiveSize);
 
 	env->ReleaseByteArrayElements(jarray, data, 0);
 
 	return receiveSamples;
+}
+
+/*
+ * Class:     com_example_soundtouchdemo_NativeSoundTouch
+ * Method:    soundTouchFlushLastSamples
+ * Signature: ()V
+ */
+void Java_com_example_soundtouchdemo_NativeSoundTouch_soundTouchFlushLastSamples(
+		JNIEnv *env, jobject obj) {
+
+	LOGD("SoundTouch flush");
+
+	soundtouch::SoundTouch* soundTouch = getTouch(env, obj);
+	soundTouch->flush();
 }
 

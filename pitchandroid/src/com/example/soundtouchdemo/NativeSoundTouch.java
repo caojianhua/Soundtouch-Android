@@ -30,7 +30,9 @@ public final class NativeSoundTouch {
 	
 	public native void shiftingPitch(byte[] pcmData, int offset, int length);
 	
-	public native int receiveSamples(byte[] pitchData, int maxSamples);
+	public native int receiveSamples(byte[] pitchData, int bufferLenght);
+	
+	public native void soundTouchFlushLastSamples();
 
 	@Override
 	protected void finalize() throws Throwable {

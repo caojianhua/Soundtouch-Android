@@ -63,6 +63,16 @@ JNIEXPORT void JNICALL Java_com_example_soundtouchdemo_NativeSoundTouch_shifting
 JNIEXPORT jint JNICALL Java_com_example_soundtouchdemo_NativeSoundTouch_receiveSamples
   (JNIEnv *, jobject, jbyteArray, jint);
 
+/*
+ * Class:     com_example_soundtouchdemo_NativeSoundTouch
+ * Method:    soundTouchFlushLastSamples
+ * Signature: ()V
+ */
+JNIEXPORT void JNICALL Java_com_example_soundtouchdemo_NativeSoundTouch_soundTouchFlushLastSamples
+  (JNIEnv *, jobject);
+
+
+
 #ifdef __cplusplus
 }
 #endif

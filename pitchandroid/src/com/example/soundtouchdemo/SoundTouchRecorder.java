@@ -68,40 +68,74 @@ public class SoundTouchRecorder {
 
 		public void run() {
 
+			int totalPCMSamples = 0;
+			int totalSTSamples = 0;
+
+			int receiveSTSamples = 0;
+
 			while (recordingstart && recordOutputStream != null) {
 				int len = mAudioRecorder.read(recorderBuffer, 0,
 						recorderBuffer.length);
-				Log.d(TAG, "read buffer.. length :" + len);
+
+				int inputSamples = len / ((16 * 1) / 8);
+				totalPCMSamples += inputSamples;
 
 				try {
+
+					Log.d(TAG, "input ST pcm size :" + inputSamples);
 
 					NativeSoundTouch.getSoundTouch().shiftingPitch(
 							recorderBuffer, 0, len);
 
-					Log.d(TAG, "input ST pcm size :" + len);
-
-					int receiveSamples = 0;
-					int needSamples = len / ((16 * 1) / 8);
-
 					do {
-						receiveSamples = NativeSoundTouch.getSoundTouch()
-								.receiveSamples(recorderBuffer, needSamples);
+						receiveSTSamples = NativeSoundTouch.getSoundTouch()
+								.receiveSamples(recorderBuffer,
+										recorderBuffer.length);
 
-						Log.d(TAG, "receive ST pcm samples :" + receiveSamples);
+						totalSTSamples += receiveSTSamples;
+						Log.d(TAG, "receive ST pcm samples :"
+								+ receiveSTSamples);
 
-						if (receiveSamples != 0) {
+						if (receiveSTSamples != 0) {
 							recordOutputStream.write(recorderBuffer, 0,
-									receiveSamples * ((16 * 1) / 8));
+									receiveSTSamples * ((16 * 1) / 8));
 							recordOutputStream.flush();
 						}
 
 						// sava into file
-					} while (receiveSamples != 0);
+					} while (receiveSTSamples != 0);
 
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
 			}
+
+			// receive the remainder of the speech data
+			NativeSoundTouch.getSoundTouch().soundTouchFlushLastSamples();
+
+			do {
+				receiveSTSamples = NativeSoundTouch.getSoundTouch()
+						.receiveSamples(recorderBuffer, recorderBuffer.length);
+
+				Log.d(TAG, "receive remainder ST samples:" + receiveSTSamples);
+
+				totalSTSamples += receiveSTSamples;
+
+				if (receiveSTSamples != 0) {
+
+					try {
+						recordOutputStream.write(recorderBuffer, 0,
+								receiveSTSamples * ((16 * 1) / 8));
+						recordOutputStream.flush();
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
+
+				}
+			} while (receiveSTSamples != 0);
+
+			Log.d(TAG, "Total input pcm samples:" + totalPCMSamples);
+			Log.d(TAG, "total receive ST samoles:" + totalSTSamples);
 
 			mAudioRecorder.stop();
 			mAudioRecorder.release();
