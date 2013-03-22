@@ -25,17 +25,18 @@
             
         },
         
-        
         'sources':[
             './source/SoundTouch/AAFilter.cpp',
+            './source/SoundTouch/BPMDetect.cpp',
             './source/SoundTouch/FIFOSampleBuffer.cpp',
             './source/SoundTouch/FIRFilter.cpp',
-            './source/SoundTouch/cpu_detect_x86.cpp',
+            './source/SoundTouch/PeakFinder.cpp',
             './source/SoundTouch/RateTransposer.cpp',
             './source/SoundTouch/SoundTouch.cpp',
             './source/SoundTouch/TDStretch.cpp',
-            './source/SoundTouch/BPMDetect.cpp',
-            './source/SoundTouch/PeakFinder.cpp',
+            './source/SoundTouch/cpu_detect_x86.cpp',
+            './source/SoundTouch/mmx_optimized.cpp',
+            './source/SoundTouch/sse_optimized.cpp',
         ],
     }],
 }
