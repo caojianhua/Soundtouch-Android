@@ -940,6 +940,41 @@ SWIGEXPORT void JNICALL Java_com_example_soundtouchandroid_core_SoundtouchNative
 }
 
 
+SWIGEXPORT void JNICALL Java_com_example_soundtouchandroid_core_SoundtouchNativeJNI_WavProcessor_1processWav(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_, jstring jarg2, jfloat jarg3, jfloat jarg4, jfloat jarg5, jstring jarg6) {
+  WavProcessor *arg1 = (WavProcessor *) 0 ;
+  std::string arg2 ;
+  float arg3 ;
+  float arg4 ;
+  float arg5 ;
+  std::string arg6 ;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(WavProcessor **)&jarg1; 
+  if(!jarg2) {
+    SWIG_JavaThrowException(jenv, SWIG_JavaNullPointerException, "null string");
+    return ;
+  } 
+  const char *arg2_pstr = (const char *)jenv->GetStringUTFChars(jarg2, 0); 
+  if (!arg2_pstr) return ;
+  (&arg2)->assign(arg2_pstr);
+  jenv->ReleaseStringUTFChars(jarg2, arg2_pstr); 
+  arg3 = (float)jarg3; 
+  arg4 = (float)jarg4; 
+  arg5 = (float)jarg5; 
+  if(!jarg6) {
+    SWIG_JavaThrowException(jenv, SWIG_JavaNullPointerException, "null string");
+    return ;
+  } 
+  const char *arg6_pstr = (const char *)jenv->GetStringUTFChars(jarg6, 0); 
+  if (!arg6_pstr) return ;
+  (&arg6)->assign(arg6_pstr);
+  jenv->ReleaseStringUTFChars(jarg6, arg6_pstr); 
+  (arg1)->processWav(arg2,arg3,arg4,arg5,arg6);
+}
+
+
 SWIGEXPORT jlong JNICALL Java_com_example_soundtouchandroid_core_SoundtouchNativeJNI_new_1WavProcessor(JNIEnv *jenv, jclass jcls) {
   jlong jresult = 0 ;
   WavProcessor *result = 0 ;

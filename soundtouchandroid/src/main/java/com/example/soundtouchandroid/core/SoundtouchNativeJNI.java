@@ -15,6 +15,7 @@ public class SoundtouchNativeJNI {
   public final static native void FrameProcessor_shiftingPitch(long jarg1, FrameProcessor jarg1_, byte[] jarg2, int jarg3, int jarg4);
   public final static native void FrameProcessor_receiveSamples(long jarg1, FrameProcessor jarg1_, byte[] jarg2, int jarg3);
   public final static native void FrameProcessor_flush(long jarg1, FrameProcessor jarg1_);
+  public final static native void WavProcessor_processWav(long jarg1, WavProcessor jarg1_, String jarg2, float jarg3, float jarg4, float jarg5, String jarg6);
   public final static native long new_WavProcessor();
   public final static native void delete_WavProcessor(long jarg1);
 

@@ -18,16 +18,32 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE := soundtouchnative
 
-LOCAL_C_INCLUDES := \
-	$(LOCAL_PATH)/.
+LOCAL_C_INCLUDES :=  $(LOCAL_PATH)/  \
+	                 $(LOCAL_PATH)/soundtouch/include/  \
+	                 $(LOCAL_PATH)/soundtouch/source/SoundStretch/
 
-LOCAL_EXPORT_C_INCLUDES := \
-	$(LOCAL_PATH)/.
+LOCAL_EXPORT_C_INCLUDES := $(LOCAL_PATH)/ \
+	                       $(LOCAL_PATH)/soundtouch/include/  \
+	                       $(LOCAL_PATH)/soundtouch/source/SoundStretch/
 
 LOCAL_SRC_FILES := FrameProcessor.cpp \
                    WavProcessor.cpp \
-                   SoundtouchNative_wrap.cxx
-
-LOCAL_SHARED_LIBRARIES := libsoundtouch
+                   SoundtouchNative_wrap.cxx \
+                   soundtouch/source/SoundTouch/AAFilter.cpp \
+                   soundtouch/source/SoundTouch/BPMDetect.cpp \
+                   soundtouch/source/SoundTouch/FIFOSampleBuffer.cpp \
+                   soundtouch/source/SoundTouch/FIRFilter.cpp \
+                   soundtouch/source/SoundTouch/PeakFinder.cpp \
+                   soundtouch/source/SoundTouch/RateTransposer.cpp \
+                   soundtouch/source/SoundTouch/SoundTouch.cpp \
+                   soundtouch/source/SoundTouch/TDStretch.cpp \
+                   soundtouch/source/SoundTouch/cpu_detect_x86.cpp \
+                   soundtouch/source/SoundTouch/mmx_optimized.cpp \
+                   soundtouch/source/SoundTouch/sse_optimized.cpp \
+                   soundtouch/source/SoundTouch/InterpolateLinear.cpp \
+                   soundtouch/source/SoundTouch/InterpolateShannon.cpp \
+                   soundtouch/source/SoundTouch/InterpolateCubic.cpp \
+                   soundtouch/source/SoundStretch/RunParameters.cpp \
+                   soundtouch/source/SoundStretch/WavFile.cpp \
 
 include $(BUILD_SHARED_LIBRARY)

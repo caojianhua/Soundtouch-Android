@@ -35,6 +35,10 @@ public class WavProcessor {
     }
   }
 
+  public void processWav(String src, float tempoDelta, float pitchDelta, float rateDelta, String dst) {
+    SoundtouchNativeJNI.WavProcessor_processWav(swigCPtr, this, src, tempoDelta, pitchDelta, rateDelta, dst);
+  }
+
   public WavProcessor() {
     this(SoundtouchNativeJNI.new_WavProcessor(), true);
   }
